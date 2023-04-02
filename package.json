@@ -1,0 +1,29 @@
+{
+  "name": "hw-14",
+  "version": "1.0.0",
+  "description": "hillel hw",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superolechka/HW-14.git"
+  },
+  "keywords": [
+    "mother"
+  ],
+  "author": "Olechka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superolechka/HW-14/issues"
+  },
+  "homepage": "https://github.com/superolechka/HW-14#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "prettier": "^2.8.7"
+  },
+  "devDependencies": {
+    "eslint": "^8.37.0"
+  }
+}

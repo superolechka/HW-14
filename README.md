@@ -1,1 +1,3 @@
-# HW-14
+## HW-14
+###instal dep
+```npm install```
